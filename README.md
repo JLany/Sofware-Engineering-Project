@@ -68,7 +68,7 @@ To run this project, you must have the following software installed on your Wind
 
    - Launch Visual Studio.
    - Click on "Open a project or solution" on the start page.
-   - Navigate to the cloned repository's directory, and select the `MyProject.sln` file.
+   - Navigate to the cloned repository's directory, and select the `ToffeeApplication.sln` file.
    - Click on "Open" to load the project in Visual Studio.
 
 4. Build the solution:
