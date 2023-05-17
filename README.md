@@ -36,7 +36,7 @@ Please follow the steps below to set up and run the Toffee System project:
 
 Clone the repository:
 ```
-git clone https://github.com/JLany/ToffeeSystem.git
+git clone https://github.com/JLany/Sofware-Engineering-Project
 ```
 
 ## Acknowledgments
