@@ -62,7 +62,7 @@ To run this project, you must have the following software installed on your Wind
 
    ````
    git clone https://github.com/JLany/Sofware-Engineering-Project
-   ```
+   ````
 
 ## Acknowledgments
 
