@@ -39,10 +39,6 @@ Clone the repository:
 git clone https://github.com/JLany/ToffeeSystem.git
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 We would like to thank Dr. Mohammad El-Ramly, our TA, and the Faculty of Computers and Artificial Intelligence at Cairo University for their support and guidance throughout the development of this project.
