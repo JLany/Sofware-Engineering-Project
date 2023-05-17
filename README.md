@@ -64,6 +64,23 @@ To run this project, you must have the following software installed on your Wind
    git clone https://github.com/JLany/Sofware-Engineering-Project
    ````
 
+3. Open the project in Visual Studio:
+
+   - Launch Visual Studio.
+   - Click on "Open a project or solution" on the start page.
+   - Navigate to the cloned repository's directory, and select the `MyProject.sln` file.
+   - Click on "Open" to load the project in Visual Studio.
+
+4. Build the solution:
+
+   - In the Visual Studio menu, go to "Build" > "Build Solution" to compile the project.
+
+5. Run the application:
+
+   - Press "F5" or click on the "Start" button in the toolbar to launch the application.
+
+Now you should see the Toffee System application running on your Windows system. Enjoy!
+
 ## Acknowledgments
 
 We would like to thank Dr. Mohammad El-Ramly, our TA, and the Faculty of Computers and Artificial Intelligence at Cairo University for their support and guidance throughout the development of this project.
