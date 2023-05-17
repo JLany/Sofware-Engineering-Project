@@ -26,11 +26,11 @@ Toffee System is an e-commerce web application developed as part of CS251: Intro
 
 - Software Requirements Specification (SRS)
 - Software Design Specification (SDS)
-- 3 Architecture Diagrams (with different levels of detail)
+- 3 Architecture Diagrams (With Different Levels of Detail)
 - 1 Class Diagram (Domain Classes only)
 - 5 Sequence Diagrams
 - 1 State Diagram
-- Dummy Implementation using Windows Forms - C# (showcasing main features)
+- Dummy Implementation using Windows Forms - C# (Showing Main Features)
 
 ## Technologies Design
 
@@ -40,7 +40,7 @@ Toffee System is an e-commerce web application developed as part of CS251: Intro
 
 ## Setup and Installation
 
-**Note: This project is designed to work on Windows systems only, as it utilizes WinForms (C#).**
+**Note: This project is designed to work on Windows systems only, as it utilizes Windows Forms (C#).**
 
 Please follow the steps below to set up and run the Toffee System project:
 
