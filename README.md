@@ -49,11 +49,11 @@ Please follow the steps below to set up and run the Toffee System project:
 To run this project, you must have the following software installed on your Windows system:
 
 - Visual Studio (2019 or newer)
-- .NET SDK v6
+- .NET SDK version 6.0
 
 ### Setup and Installation
 
-1. Install the .NET SDK v6:
+1. Install the .NET SDK version 6.0:
 
    - Download the .NET SDK v6 installer from the [official .NET website](https://dotnet.microsoft.com/download/dotnet/6.0).
    - Run the installer and follow the on-screen instructions to install the .NET SDK version 6.0 on your system.
